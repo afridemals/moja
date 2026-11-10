@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": " ᴍᴀᴍᴜɴ ʙʙ'ᴢ 🪄💌",
+  "nickNameBot": " sumu",
   "prefix": "-",
   "noPrefix": {
     "enable": true,
@@ -24,7 +24,11 @@
   },
   "adminBot": [
    "61595489399118",
-   "61595057655929"
+   "61595057655929",
+   "100092328931524",
+   "61591169410501",
+   "61571537507574",
+   "61593067372418"
   ],
   "reactUnsend": {
     "enable": true,
@@ -39,7 +43,11 @@
     "enable": false,
     "whiteListIds": [
       "61595489399118",
-      "61595057655929"
+      "61595057655929",
+      "100092328931524",
+      "61591169410501",
+      "61571537507574",
+      "61593067372418"
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
   },
